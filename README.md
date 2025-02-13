@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# secret-santa-project
+A Secret Santa assignment system for company exam
+
+>>>>>>> 3314eaa521394e836af6bf22baa99ccd2f69da5f
 - Secret Santa Assignment System
 
 A modular and extensible Secret Santa assignment system that helps organize gift exchanges while following specific rules and constraints.
